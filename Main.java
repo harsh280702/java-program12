@@ -7,5 +7,6 @@ public class Main {
         System.out.println("this is the nice and wram day ");
 
         System.out.println(new Date()); 
+        System.out.println(new Date()); 
     }
 }
