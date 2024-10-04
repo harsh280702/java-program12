@@ -14,6 +14,8 @@ public class Main {
         int c = a+b;
          System.out.println(" this is the result that is c " +c);
 
+         System.out.println(" this is pipeline project");
+
 
     }
 }
